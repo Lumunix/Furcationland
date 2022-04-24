@@ -65,7 +65,7 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
+  background: #41CE86;
   padding: 20px 0;
 }
 header .navbar {
@@ -358,7 +358,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/Banner02.png") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -774,7 +774,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	footer Start
 --*/
 footer {
-  background: #F5F5F5;
+  background: #3E8A55;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
