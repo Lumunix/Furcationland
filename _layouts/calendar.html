@@ -38,12 +38,12 @@ calendar_bootstrap_css: <link rel="stylesheet" href="/assets/vendor/bootstrap/cs
 
 </div>
 
-<script type="text/javascript" src="{{PATH_TO_COMPONENTS}}/jquery/jquery.min.js"></script>
-<script type="text/javascript" src="{{PATH_TO_COMPONENTS}}/lodash/lodash.min.js"></script>
-<script type="text/javascript" src="{{PATH_TO_COMPONENTS}}/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="{{PATH_TO_COMPONENTS}}/bootstrap-calendar/js/calendar.js"></script>
-<script type="text/javascript" src="{{PATH_TO_COMPONENTS}}/moment/min/moment.min.js"></script>
-<script type="text/javascript" src="{{PATH_TO_COMPONENTS}}/papaparse/papaparse.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/lodash/lodash.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/bootstrap-calendar/js/calendar.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/moment/min/moment.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/vendor/papaparse/papaparse.min.js"></script>
 
 <script type="text/javascript">
 (function($) {
@@ -96,7 +96,7 @@ calendar_bootstrap_css: <link rel="stylesheet" href="/assets/vendor/bootstrap/cs
   // Load the calendar with the provided events in correct format
   function loadCalendar(calendarEvents) {
     var options = {
-      tmpl_path: "{{PATH_TO_COMPONENTS}}/bootstrap-calendar/tmpls/",
+      tmpl_path: "{{ site.baseurl }}/assets/vendor/bootstrap-calendar/tmpls/",
       events_source: calendarEvents,
       view: 'month',
       tmpl_cache: false,
