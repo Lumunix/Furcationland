@@ -1,9 +1,37 @@
-- title: Work
-  url: /work
-- title: Blog
-  url: /blog
-- title: Calendar
-  url: /calendar.html
+- title: Register
+  url: /register.html
+
+
+- title: Shop
+  url: /shop.html
+- title: Events
+  sublinks:
+    - title: schedule
+      url: /schedule.html
+    - title: Video Gaming
+      url: /videogames.html
+
+- title: Dealers & Artists
+  sublinks:
+    - title: Guests of Honor
+      url: /guestsofhonor.html
+    - title: Dealers Den
+      url: /dealersden.html
+    - title: Artist Alley
+      url: /artistalley.html
+
+
+- title: Travel & Hotel
+  sublinks:
+    - title: Hotel
+      url: /hotel.html
+    - title: Travel Information
+      url: /travelinformation.html
+    - title: Parking
+      url: /parking.html
+
+
+
 - title: contact
   url: /contact
 - title: Support
