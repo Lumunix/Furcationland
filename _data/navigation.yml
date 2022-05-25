@@ -1,20 +1,17 @@
 - title: Register
   url: /register.html
 
-
-- title: Shop
-  url: /shop.html
 - title: Events
   sublinks:
-    - title: schedule
-      url: /schedule.html
+    - title: Event Schedule
+      url: /event-schedule.html
     - title: Video Gaming
       url: /videogames.html
 
 - title: Dealers & Artists
   sublinks:
     - title: Guests of Honor
-      url: /guestsofhonor.html
+      url: /guests-of-honor.html
     - title: Dealers Den
       url: /dealersden.html
     - title: Artist Alley
@@ -32,10 +29,7 @@
 
 
 
-- title: contact
-  url: /contact
-- title: Support
-  url: /support.html
+- title: About
   sublinks:
     - title: FAQ
       url: /faq.html
