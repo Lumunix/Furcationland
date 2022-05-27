@@ -1,11 +1,11 @@
-- title: Work
-  url: /work
+- title: Registration
+  url: /registration
 - title: Blog
   url: /blog
 - title: Calendar
   url: /calendar.html
-- title: contact
-  url: /contact
+- title: Charity
+  url: /charity.html
 - title: Support
   url: /support.html
   sublinks:
@@ -14,5 +14,5 @@
     - title: Documentation
       url: /documentation.html
     - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+    - title: Contact
+      url: /contact.html
