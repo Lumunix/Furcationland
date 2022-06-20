@@ -1,4 +1,8 @@
 Title,Start,End,Mark,URL
-Lecture 1,1/5/16 10:00 AM,1/5/16 11:30 AM,Info,
-Homework #1 Due,1/7/16 10:00 AM,1/7/16 10:05 AM,Warning,http://example.com
-Lecture 2,1/7/16 10:05 AM,1/7/16 11:30 AM,Info,
+Registration,6/24/2022 10:00 AM,6/24/2022 11:30 AM,Info,
+Registration,6/24/2022 10:00 AM,6/24/2022 11:30 AM,Info,
+Furcationland Dancing,6/25/2022 10:00:00 AM,6/25/2022 11:30:00 AM,Info,
+Con Operations,6/26/2022 10:00:00 AM,6/26/2022 10:05:00 AM,Warning,http://example.com
+Furry Logic Escape Room,6/26/2022 10:05:00 AM,6/26/2022 11:30:00 AM,Info,
+Opening Ceremonies,6/26/2022 1:05:00 PM,6/26/2022 1:05:00 PM,Red,https://www.google.com/?client=safari
+Art Show,6/26/2022 1:05:00 PM,6/26/2022 1:05:00 PM,,
